@@ -1,0 +1,21 @@
+body {
+	background:lightblue;
+}
+#container1 {
+	margin-right:100px;
+	margin-bottom:200px;
+    padding:50px;
+	height:700px;
+    width:200px;
+    border-right:1px solid gray;	
+}
+#container2 {
+    margin:5px;
+	width:500px;
+	height:200px;
+	margin-left:400px;
+	margin-bottom:500px;
+}
+h1 {
+    font-style:italic;
+}	

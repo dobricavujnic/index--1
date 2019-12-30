@@ -1,0 +1,29 @@
+body {
+	background:lightblue;
+}
+#container1 {
+	margin-right:100px;
+	margin-bottom:200px;
+    padding:50px;
+	height:700px;
+    width:200px;
+}
+#container2 {
+    margin:10px auto;
+	width:300px auto;
+	height:400px;
+	margin-left:300px;
+	margin-bottom:500px;
+}
+table {
+	margin:10px auto;
+	background:silver;
+	border:2px solid lightgreen;
+}
+td {
+	border:1px solid blue;
+    width:500px;
+}
+h1 {
+	font-style:italic;
+}	
